@@ -1,0 +1,3 @@
+﻿  源.c
+E:\Code\test\Project24\Project24\源.c(26,2): warning C4098: “calu”:“void”函数返回值
+  Project24.vcxproj -> E:\Code\test\Project24\x64\Debug\Project24.exe
