@@ -1,0 +1,6 @@
+﻿  源.c
+E:\Code\test\Project24\Project24\源.c(10,8): warning C4047: “初始化”:“char *”与“char”的间接级别不同
+E:\Code\test\Project24\Project24\源.c(19,8): warning C4047: “初始化”:“char *”与“char”的间接级别不同
+E:\Code\test\Project24\Project24\源.c(40,8): warning C4090: “初始化”: 不同的“const”限定符
+E:\Code\test\Project24\Project24\源.c(45,10): warning C4090: “初始化”: 不同的“const”限定符
+  Project24.vcxproj -> E:\Code\test\Project24\x64\Debug\Project24.exe
