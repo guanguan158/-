@@ -1,0 +1,13 @@
+﻿  info.c
+E:\Code\test\Project32\Project32\info.c(64,3): warning C4133: “return”: 从“int *”到“char *”的类型不兼容
+E:\Code\test\Project32\Project32\info.c(87,3): warning C4033: “Serach”必须返回值
+E:\Code\test\Project32\Project32\info.c(108,8): warning C4113: “char *(__cdecl *)(telebook *,int,int)”和“char *(__cdecl *)(telebook *,char *,int)”的参数列表不同
+E:\Code\test\Project32\Project32\info.c(149,26): warning C4047: “函数”:“char *”与“int”的间接级别不同
+E:\Code\test\Project32\Project32\info.c(149,26): warning C4024: “calu”: 形参和实参 2 的类型不同
+  源.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+E:\Code\test\Project32\Project32\info.c(171): warning C4715: “Serach”: 不是所有的控件路径都返回值
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project32.vcxproj -> E:\Code\test\Project32\x64\Release\Project32.exe
